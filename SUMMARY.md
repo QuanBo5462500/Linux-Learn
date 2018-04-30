@@ -1,6 +1,6 @@
 # Summary
 
-* [目录](README.md)
+* [目录](SUMMARY.md)
 * [基础知识篇](base.md)
     * [学习Liux的经验与技巧](base/1.md)
     * [Liux系统基本结构](base/2.md)
