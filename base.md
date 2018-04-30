@@ -28,6 +28,24 @@ Linux的低成本、强大的定制功能以及良好的可移植性，使得Lin
 互联网产业的迅猛发展，促使云计算、大数据产业的形成并快速发展，云计算、大数据作为一个基于开源软件的平台，Linux占据 了核心优势。据Linux基金会的究，86%的企业己经使用Linux操作系统进行云计算、大数据平台的构建。目前，Linux己开始取代UNIX成为最受青睐的云计算、 大数据平台操作系统。
 
 ## 1.2 选择适合自己的Linx 行版
+初学者在学习Linux之前，需要有一个明确的方向，选择一个适合自己的Linux系统至关重要。下面就分类介绍Linux发行版。
+
+### 1.2.1 常见的Linux发行版
+#### 1 Red Hat Linux
+目前Red Hat 分为两个系列：由Red Hat公司提供收费技术支持和更新的Red Hat Enterprise Linux，以及由社区开发的免费的Fedora Core。
+#### 2 Fedora Core
+对于用户而言， Fedora是一套功能完备、 更新迅速的免费 操作系统， 因此， 个人领域的应用， 例如开发、 体验新功能等， 可选择此发行版本。
+#### 3 Red Hat Enterprise Linux
+阻EL的版本都基于Fedora。大约发布六个新版本的Fedora后就会有个新版本的阻EL发布， 因此，阻EL大约3年发布一个新版本。
+#### 4 CentOS
+CentOS全名为 “社区企业操作系统”（Comm uni ty Ente叩rise Op erating System ）。它由来自于阳IEL依照开放源代码规定 发布的源代码编译而成，由于RHEL是商业产品，因此必须将Red Hat的所有Logo改成自己的CentOS标识，这就产生了CentOS 操作系统。两者的不同在于，CentOS并不包含封闭源代码软件。因此，CentOS不但可以自由使用，而且能享受CentOS提供的长期免费升级和更新服务。这是CentOS的一个很大优势。
+CentOS 从阳IEL的源代码包来构建，它的版本号有两部分：主要版本和次要版本，主要版本和次要版本号分别对应于阻EL的主要版本与更新包。2014年CentOS宣布与 Red Hat合作，但CentOS将会在新的委员会下继续运作，并不受阻EL的影响。这个策略表明CentOS 后续发展将由Red Hat作为强有力的支持。
+#### 4 SuSE LinuX
+SUSE Linux 现在欧洲Linux市场中占有将近80%的份额，大部分关键应用都是建立在SUSE Linux下的。 而由于SUSE多次易主，再加上SUSE在中国的营销模式问题，现在SUSE在中国的Linux市场份额并不大 ， 但是这些并不 影响 SUSE Linux高可靠性与稳定性的事实。 随着SUSE的发展， 相信SUSE Linux在中国的应用会越 来越多。
+
+
+
+
 
 
 
