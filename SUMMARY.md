@@ -4,6 +4,7 @@
 * [基础知识篇](base.md)
   * [学习Liux的经验与技巧](base/1.md)
   * [Liux系统基本结构](base/2.md)
+  * [3](base/3.md)
 * [服务器搭建篇](build.md)
 * [系统管理篇](management.md)
 * [性能调试篇](tuning.md)
