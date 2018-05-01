@@ -1,8 +1,6 @@
-# Linux-Learn
+# Summary
 
-
-
-
+* [Introduction](README.md)
 * [目录](SUMMARY.md)
 * [基础知识篇](base.md)
     * [学习Liux的经验与技巧](base/1.md)
